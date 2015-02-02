@@ -355,5 +355,5 @@
 
 * 最后更新：2015.1.23
 * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8389553)
-* [51CTO下载](http://vdisk.weibo.com/s/aADaW4YROtQUL)
-* [百度云下载](http://pan.baidu.com/s/1sjma0R7)
+* [51CTO下载](http://down.51cto.com/data/1980535)
+* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROtQUL)
