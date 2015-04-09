@@ -19,7 +19,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994927)
   * [51CTO下载](http://down.51cto.com/data/1878955)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQv8m)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV7)
 
 ## Bootstrap教程
 
@@ -29,7 +29,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994907)
   * [51CTO下载](http://down.51cto.com/data/1878952)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQvhW)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV4)
 
 ## CSS参考手册
 
@@ -39,7 +39,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
   * [51CTO下载](http://down.51cto.com/data/1889669)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRff9Oq)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV9)
 
 ## C# &amp; ASP.net教程
 
@@ -50,7 +50,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
   * [51CTO下载](http://down.51cto.com/data/1879009)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQRGm)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVv)
 
 ## C++教程
 
@@ -60,7 +60,7 @@
 * EPUB版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8407697)
   * [51CTO下载](http://down.51cto.com/data/1979786)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRPa7S1)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVX)
   
 ## C语言教程
 
@@ -70,7 +70,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8309151)
   * [51CTO下载](http://down.51cto.com/data/1967849)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP7ofW)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV0)
 
 ## Eclipse 教程
 
@@ -80,7 +80,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8316883)
   * [51CTO下载](http://down.51cto.com/data/1968648)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP8txi)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVQ)
 
 ## HTML &amp; css教程
 
@@ -92,7 +92,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997519)
   * [51CTO下载](http://down.51cto.com/data/1879168)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQ4RV)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVx)
 
 ## HTML参考手册
 
@@ -102,7 +102,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084901)
   * [51CTO下载](http://down.51cto.com/data/1889715)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfGACl)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBR)
 
 ## ios教程
 
@@ -112,7 +112,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994919)
   * [51CTO下载](http://down.51cto.com/data/1878954)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQvhT)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCt)
 
 ## Java &amp; Java Web教程
 
@@ -124,7 +124,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995503)
   * [51CTO下载](http://down.51cto.com/data/1878997)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQv1f)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBV)
 
 ## JavaScript &amp; jQuery教程
 
@@ -139,7 +139,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8088421)
   * [51CTO下载](http://down.51cto.com/data/1890200)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRffzE8)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCq)
 
 ## JavaScript参考手册
 
@@ -149,7 +149,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8000335)
   * [51CTO下载](http://down.51cto.com/data/1879731)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQy18)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
 
 ## jQueryMobile教程
 
@@ -159,7 +159,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8069785)
   * [51CTO下载](http://down.51cto.com/data/1887084)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRf_p_W)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCx)
 
 ## jQuery UI教程
 
@@ -170,7 +170,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996813)
   * [51CTO下载](http://down.51cto.com/data/1879132)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQcpE)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCc)
 
 ## JQuery参考手册
 
@@ -180,7 +180,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997915)
   * [51CTO下载](http://down.51cto.com/data/1879306)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQ70S)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
 
 ## Linux教程
 
@@ -190,7 +190,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7998555)
   * [51CTO下载](http://down.51cto.com/data/1879562)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQxeB)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC0)
 
 ## MongoDB教程
 
@@ -200,7 +200,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994889)
   * [51CTO下载](http://down.51cto.com/data/1878951)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQNs2)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlB-)
 
 ## Node.js教程
 
@@ -210,7 +210,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8083187)
   * [51CTO下载](http://down.51cto.com/data/1889497)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRffo2W)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
 
 ## PHP教程
 
@@ -220,7 +220,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084927)
   * [51CTO下载](http://down.51cto.com/data/1889382)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRffoGe)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC1)
 
 ## PHP参考手册
 
@@ -230,7 +230,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8096357)
   * [51CTO下载](http://down.51cto.com/data/1891817)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRff803)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCw)
 
 ## Python教程
 
@@ -241,7 +241,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8082981)
   * [51CTO下载](http://down.51cto.com/data/1889441)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRffFnV)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBG)
 
 ## Redis教程
 
@@ -251,7 +251,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8309295)
   * [51CTO下载](http://down.51cto.com/data/1967857)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRP7NNi)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCu)
 
 ## Ruby教程
 
@@ -261,7 +261,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994869)
   * [51CTO下载](http://down.51cto.com/data/1878950)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQNAn)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCn)
 
 ## SQL教程
 
@@ -273,7 +273,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996483)
   * [51CTO下载](http://down.51cto.com/data/1879070)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQBZl)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCr)
 
 ## VBS &amp; ASP教程
 
@@ -285,7 +285,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994655)
   * [51CTO下载](http://down.51cto.com/data/1878916)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQogx)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBJ)
 
 ## XML教程
 
@@ -309,7 +309,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996259)
   * [51CTO下载](http://down.51cto.com/data/1879035)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQaqB)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCk)
 
 ## 设计模式教程
 
@@ -319,7 +319,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995871)
   * [51CTO下载](http://down.51cto.com/data/1879010)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQRLe)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC2)
 
 ## 网站建设教程
 
@@ -337,7 +337,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8175147)
   * [51CTO下载](http://down.51cto.com/data/1901422)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfcna0)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBK)
 
 ## 正则表达式教程
 
@@ -347,7 +347,7 @@
 * PDF版
   * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995407)
   * [51CTO下载](http://down.51cto.com/data/1878988)
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRfQu_z)
+  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCs)
 
 * * *
 
@@ -356,4 +356,5 @@
 * 最后更新：2015.1.23
 * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8389553)
 * [51CTO下载](http://down.51cto.com/data/1980535)
-* [微盘下载](http://vdisk.weibo.com/s/aADaW4YROtQUL)
+* [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBL)
+* [百度云下载](http://pan.baidu.com/s/1sjma0R7)
