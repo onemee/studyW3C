@@ -2,7 +2,7 @@
 
 此处的列表不一定能够及时更新，最后更新日期为2015.2.1，原文在[这里](http://www.flygon.net/w3school)。
 
-***
+* * *
 
 ## AngularJS教程
 
@@ -43,7 +43,8 @@
 + PDF版（2014.10.07）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8008529)
   + [51CTO下载](http://down.51cto.com/data/1880517)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIiIw)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOcq)
+  + [百度云下载](http://pan.baidu.com/s/1hqrMhwC)
 
 ## Chrome扩展开发文档
 
@@ -52,7 +53,8 @@
 + PDF版（2014.10.01）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995167)
   + [51CTO下载](http://down.51cto.com/data/1878981)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIjjR)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCE)
+  + [百度云下载](http://pan.baidu.com/s/1jG5pnwi)
 
 ## CSS参考手册
 
@@ -82,7 +84,8 @@
 + CHM版
   + [CSDN下载](http://download.csdn.net/detail/tom0829/3497346#comment)
   + [51CTO下载](http://down.51cto.com/data/465531)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIHRP)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCa)
+  + [百度云下载](http://pan.baidu.com/s/1o6iM2oE)
 
 ## C# .net 4.0 类库参考手册
 
@@ -91,7 +94,8 @@
 + CHM版
   + [CSDN下载](http://download.csdn.net/download/zplinuxx/2556476)
   + [51CTO下载](http://down.51cto.com/data/1040355)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIU5s)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCx)
+  + [百度云下载](http://pan.baidu.com/s/1pJyZzFd)
 
 ## C++教程
 
@@ -119,7 +123,8 @@
   + [django book 2.0](http://docs.30c.org/djangobook2/)
 + EPUB版（2.0）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582521)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIUd6)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCo)
+  + [百度云下载](http://pan.baidu.com/s/1mguvNO8)
 
 ## django教程
 
@@ -153,13 +158,15 @@
 + EPUB版（v1）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582235)
   + [51CTO下载](http://down.51cto.com/data/2037756)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIDx9)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCW)
+  + [百度云下载](http://pan.baidu.com/s/1pJt9Pgv)
 
 ## hibernate官方文档
 
 + CHM版
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588159)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIgUi)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC-)
+  + [百度云下载](http://pan.baidu.com/s/1i3lE5lN)
 
 ## HTML &amp; css教程
 
@@ -281,7 +288,8 @@
   + [Laravel官方文档4.2](http://v4.golaravel.com/docs/4.2)
 + EPUB版（v4.2）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582945)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIpAP)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCq)
+  + [百度云下载](http://pan.baidu.com/s/1ntqVYWh)
 
 ## Linux教程
 
@@ -300,7 +308,8 @@
 + PDF版（2014.10.16）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8044903)
   + [51CTO下载](http://down.51cto.com/data/1883732)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIjj9)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCG)
+  + [百度云下载](http://pan.baidu.com/s/1mg88VYo)
 
 ## MongoDB教程
 
@@ -324,7 +333,8 @@
 + EPUB版（v5.1）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583557)
   + [51CTO下载](http://down.51cto.com/data/2037837)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIHBX)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCC)
+  + [百度云下载](http://pan.baidu.com/s/1sjn0gJN)
 
 ## Nginx官方文档 ##
 
@@ -333,7 +343,8 @@
 + EPUB版（2015.04.11）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583833)
   + [51CTO下载](http://down.51cto.com/data/2037844)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIH9z)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCF)
+  + [百度云下载](http://pan.baidu.com/s/1BBl2Q)
 
 ## Node.js教程
 
@@ -351,7 +362,8 @@
   + [Node.js官方API参考v0.10.18](http://nodeapi.ucdok.com/#/api/)
 + EPUB版（v0.10.18）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582649)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROICKL)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCv)
+  + [百度云下载](http://pan.baidu.com/s/1eQCOZq6)
 
 ## PHP教程
 
@@ -401,7 +413,8 @@
 + EPUB版（2.7，3.4）
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8584309)
   + [51CTO下载](http://down.51cto.com/data/2037891)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIRDN)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCu)
+  + [百度云下载](http://pan.baidu.com/s/1o65hgxW)
 
 ## QT3 官方文档 ##
 
@@ -410,7 +423,8 @@
 + CHM版
   + [CSDN下载](http://download.csdn.net/download/g123412312100/4062199)
   + [51CTO下载](http://down.51cto.com/data/149760)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIjjF)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCr)
+  + [百度云下载](http://pan.baidu.com/s/1kTtHSIb)
 
 ## Redis教程
 
@@ -455,7 +469,8 @@
 
 + CHM版
   + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588163)
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROIgTf)
+  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC4)
+  + [百度云下载](http://pan.baidu.com/s/1ntrBYvZ)
 
 ## SQL教程
 
@@ -562,7 +577,7 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCs)
   * [百度云下载](http://pan.baidu.com/s/1kTqYTTH)
 
-***
+* * *
 
 ## 教程打包
 
