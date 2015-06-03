@@ -462,8 +462,8 @@
 
 ## Spring官方文档 ##
 
-+ PDF版
-  + [CR173下载](http://www.cr173.com/soft/66146.html)
++ 在线浏览
+  + [Spring官方文档](http://spring.oschina.mopaas.com/)
   
 ## Spring官方API参考 ##
 
