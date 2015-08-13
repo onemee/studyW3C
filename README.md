@@ -134,7 +134,7 @@
 ## django中文官方文档
 
 + 在线浏览
-  + [django中文官方文档1.7](http://django-chinese-docs.readthedocs.org/en/latest/)
+  + [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
 
 ## Eclipse 教程
 
@@ -150,6 +150,13 @@
 
 + 在线浏览
   + [git教程](http://www.w3cschool.cc/git/git-tutorial.html)
+
+## git community book 中文版
+
++ 在线浏览
+  + [git community book 中文版](http://gitbook.liuhui998.com/index.html)
++ PDF版
+  + [下载地址](http://gitbook.liuhui998.com/book.pdf)
 
 ## pro git 中文第一版
 
@@ -463,7 +470,9 @@
 ## Spring官方文档 ##
 
 + 在线浏览
-  + [Spring官方文档](http://spring.oschina.mopaas.com/)
+  + [Spring官方文档](http://spring.cndocs.tk/)
++ 代码仓库
+  + [Git@OSC](http://git.oschina.net/free/spring-framework-reference)
   
 ## Spring官方API参考 ##
 
@@ -579,7 +588,7 @@
 
 * * *
 
-## 教程打包
+## w3school教程打包
 
 * 最后更新：2015.1.23
 * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8389553)
