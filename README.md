@@ -26,6 +26,13 @@
 + CHM版
   + [脚本之家下载](http://www.jb51.net/books/238.html)
 
+## ASP.net 官方教程
+
++ 在线浏览
+  + [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
++ PDF版
+  + [下载地址](http://files.cnblogs.com/powertoolsteam/ASP.NET_MVC5_%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
+
 ## Bootstrap教程
 
 * 在线浏览
