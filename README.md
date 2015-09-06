@@ -4,6 +4,13 @@
 
 * * *
 
+## Android 开发者指南 & API参考
+
++ CHM版（2012.1.31）
+  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/9082289)
+  + [51CTO下载](http://down.51cto.com/data/2090354)
+  + [千易下载](http://1000eb.com/1fvev)
+
 ## AngularJS教程
 
 * 在线浏览
