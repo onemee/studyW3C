@@ -1,8 +1,31 @@
 # W3School 教程 & 编程语言文档整理 #
 
-此处的列表不一定能够及时更新，最后更新日期为2015.2.1，原文在[这里](http://www.flygon.net/w3school)。
+此处的列表不一定能够及时更新，原文在[这里](http://www.flygon.net/w3school)。
 
 * * *
+
+## Android 官方培训教程
+
++ 在线浏览
+  + [Android 官方培训教程](http://hukai.me/android-training-course-in-chinese/index.html)
++ PDF版
+  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.pdf)
++ EPUB版
+  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
++ MOBI版
+  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
++ 代码仓库
+  + [Github](https://github.com/kesenhoo/android-training-course-in-chinese)
+
+## Android 教程
+
++ 在线浏览
+  + [Android 教程](http://www.runoob.com/w3cnote/android-tutorial-intro.html)
+
+## 深入理解 Android 卷I、卷II、卷III
+
++ 在线浏览
+  + [深入理解 Android](http://blog.csdn.net/column/details/innost.html)
 
 ## Android 开发者指南 & API参考
 
