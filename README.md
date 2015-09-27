@@ -12,7 +12,7 @@
   + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.pdf)
 + EPUB版
   + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
-+ MOBI版
++ MOBI版d
   + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
 + 代码仓库
   + [Github](https://github.com/kesenhoo/android-training-course-in-chinese)
@@ -172,6 +172,14 @@
 
 + 在线浏览
   + [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
++ PDF版
+  + [下载地址](https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18)
++ EPUB版
+  + [下载地址](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
++ MOBI版
+  + [下载地址](https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18)
++ 代码仓库
+  + [Github](https://github.com/wizardforcel/django-chinese-docs-18)
 
 ## Eclipse 教程
 
