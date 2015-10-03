@@ -34,6 +34,14 @@
   + [51CTO下载](http://down.51cto.com/data/2090354)
   + [千易下载](http://1000eb.com/1fvev)
 
+## Android 14天教程
+
++ 在线浏览
+  + [14天学会安卓开发](http://www.apkbus.com/android-83159-1-1.html)
++ PDF版（2014.10.5）
+  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8003975)
+  + [51CTO下载](http://down.51cto.com/data/1880102)
+
 ## AngularJS教程
 
 * 在线浏览
