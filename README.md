@@ -1,46 +1,13 @@
 # W3School 教程 & 编程语言文档整理 #
 
-此处的列表不一定能够及时更新，原文在[这里](http://www.flygon.net/w3school)。
+与W3school无关的教程已从此列表中移除，在[这里](https://github.com/wizardforcel/dev-tutorial)。
 
 * * *
-
-## Android 官方培训教程
-
-+ 在线浏览
-  + [Android 官方培训教程](http://hukai.me/android-training-course-in-chinese/index.html)
-+ PDF版
-  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.pdf)
-+ EPUB版
-  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.epub)
-+ MOBI版d
-  + [下载地址](http://hukai.me/eBooks/AndroidTrainingCHS.mobi)
-+ 代码仓库
-  + [Github](https://github.com/kesenhoo/android-training-course-in-chinese)
 
 ## Android 教程
 
 + 在线浏览
   + [Android 教程](http://www.runoob.com/w3cnote/android-tutorial-intro.html)
-
-## 深入理解 Android 卷I、卷II、卷III
-
-+ 在线浏览
-  + [深入理解 Android](http://blog.csdn.net/column/details/innost.html)
-
-## Android 开发者指南 & API参考
-
-+ CHM版（2012.1.31）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/9082289)
-  + [51CTO下载](http://down.51cto.com/data/2090354)
-  + [千易下载](http://1000eb.com/1fvev)
-
-## Android 14天教程
-
-+ 在线浏览
-  + [14天学会安卓开发](http://www.apkbus.com/android-83159-1-1.html)
-+ PDF版（2014.10.5）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8003975)
-  + [51CTO下载](http://down.51cto.com/data/1880102)
 
 ## AngularJS教程
 
@@ -52,25 +19,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV7)
   * [百度云下载](http://pan.baidu.com/s/1sj6vGvF)
 
-## Apache 官方文档
-
-+ 在线浏览
-  + [Apache官方文档2.2](http://httpd.apache.org/docs/2.2/zh-cn/)
-+ EPUB版（v2.2）
-  + [VERYHUO下载](http://www.veryhuo.com/down/html/40810.html)
-
-## ASP 官方文档
-
-+ CHM版
-  + [脚本之家下载](http://www.jb51.net/books/238.html)
-
-## ASP.net 官方教程
-
-+ 在线浏览
-  + [ASP.NET MVC 5 入门指南](http://www.cnblogs.com/powertoolsteam/p/aspnetmvc5-tutorials-grapecity.html)
-+ PDF版
-  + [下载地址](http://files.cnblogs.com/powertoolsteam/ASP.NET_MVC5_%E5%85%A5%E9%97%A8%E6%8C%87%E5%8D%97.pdf)
-
 ## Bootstrap教程
 
 * 在线浏览
@@ -80,26 +28,6 @@
   * [51CTO下载](http://down.51cto.com/data/1878952)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV4)
   * [百度云下载](http://pan.baidu.com/s/1eQvmJS2)
-
-## Bootstrap官方文档
-
-+ 在线浏览
-  + [Bootstrap官方文档](http://v3.bootcss.com/)
-+ PDF版（2014.10.07）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8008529)
-  + [51CTO下载](http://down.51cto.com/data/1880517)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOcq)
-  + [百度云下载](http://pan.baidu.com/s/1hqrMhwC)
-
-## Chrome扩展开发文档
-
-+ 在线浏览
-  + [Chrome扩展开发文档](http://open.chrome.360.cn/extension_dev/overview.html)
-+ PDF版（2014.10.01）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995167)
-  + [51CTO下载](http://down.51cto.com/data/1878981)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCE)
-  + [百度云下载](http://pan.baidu.com/s/1jG5pnwi)
 
 ## CSS参考手册
 
@@ -122,26 +50,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVv)
   * [百度云下载](http://pan.baidu.com/s/1ntxay0p)
 
-## C# MSDN指南 & 编程手册
-
-+ 在线浏览
-  + [MSDN指南 & 编程手册](http://shouce.jb51.net/net/index.html)
-+ CHM版
-  + [CSDN下载](http://download.csdn.net/detail/tom0829/3497346#comment)
-  + [51CTO下载](http://down.51cto.com/data/465531)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCa)
-  + [百度云下载](http://pan.baidu.com/s/1o6iM2oE)
-
-## C# .net 4.0 类库参考手册
-
-+ 在线浏览
-  + [.net 4.0 类库参考手册](http://msdn.microsoft.com/zh-cn/library/gg145045.aspx)
-+ CHM版
-  + [CSDN下载](http://download.csdn.net/download/zplinuxx/2556476)
-  + [51CTO下载](http://down.51cto.com/data/1040355)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCx)
-  + [百度云下载](http://pan.baidu.com/s/1pJyZzFd)
-
 ## C++教程
 
 * 在线浏览
@@ -162,32 +70,10 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV0)
   * [百度云下载](http://pan.baidu.com/s/1mgBV7YS)
 
-## django book ##
-
-+ 在线浏览
-  + [django book 2.0](http://docs.30c.org/djangobook2/)
-+ EPUB版（2.0）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582521)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCo)
-  + [百度云下载](http://pan.baidu.com/s/1mguvNO8)
-
 ## django教程
 
 + 在线浏览
   + [django教程](http://www.w3cschool.cc/django/django-tutorial.html)
-
-## django中文官方文档
-
-+ 在线浏览
-  + [django中文官方文档1.8](http://python.usyiyi.cn/django/index.html)
-+ PDF版
-  + [下载地址](https://www.gitbook.com/download/pdf/book/wizardforcel/django-chinese-docs-18)
-+ EPUB版
-  + [下载地址](https://www.gitbook.com/download/epub/book/wizardforcel/django-chinese-docs-18)
-+ MOBI版
-  + [下载地址](https://www.gitbook.com/download/mobi/book/wizardforcel/django-chinese-docs-18)
-+ 代码仓库
-  + [Github](https://github.com/wizardforcel/django-chinese-docs-18)
 
 ## Eclipse 教程
 
@@ -203,30 +89,6 @@
 
 + 在线浏览
   + [git教程](http://www.w3cschool.cc/git/git-tutorial.html)
-
-## git community book 中文版
-
-+ 在线浏览
-  + [git community book 中文版](http://gitbook.liuhui998.com/index.html)
-+ PDF版
-  + [下载地址](http://gitbook.liuhui998.com/book.pdf)
-
-## pro git 中文第一版
-
-+ 在线浏览
-  + [pro git 中文第一版](http://git-scm.com/doc)
-+ EPUB版（v1）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582235)
-  + [51CTO下载](http://down.51cto.com/data/2037756)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCW)
-  + [百度云下载](http://pan.baidu.com/s/1pJt9Pgv)
-
-## hibernate官方文档
-
-+ CHM版
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588159)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC-)
-  + [百度云下载](http://pan.baidu.com/s/1i3lE5lN)
 
 ## HTML &amp; css教程
 
@@ -271,20 +133,6 @@
   * [51CTO下载](http://down.51cto.com/data/1878997)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBV)
   * [百度云下载](http://pan.baidu.com/s/1eQGR5vG)
-
-## Java se6 API参考
-
-+ 在线浏览
-  + [Java se6 API参考](http://dlc.sun.com.edgesuite.net/jdk/jdk-api-localizations/jdk-api-zh-cn/publish/1.6.0/html/zh_CN/api/index.html)
-+ CHM版
-  + [PC6下载](http://www.pc6.com/softview/SoftView_74643.html)
-
-## javaee6 官方文档
-
-+ PDF版
-  + [微盘下载](http://vdisk.weibo.com/s/aADaW4YROsm7u)
-  + [百度云下载](http://pan.baidu.com/s/1hq29Lqc)
-  + [MEGA下载](https://mega.co.nz/#!GJECzDaK!TIqwEK6NbkYIvP93HWXHPoHVo9u0wuP_NmtzBsXPrJQ)
 
 ## JavaScript &amp; jQuery教程
 
@@ -342,15 +190,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
   * [百度云下载](http://pan.baidu.com/s/1qWp2JiW)
 
-## Laravel官方文档
-
-+ 在线浏览
-  + [Laravel官方文档4.2](http://v4.golaravel.com/docs/4.2)
-+ EPUB版（v4.2）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582945)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCq)
-  + [百度云下载](http://pan.baidu.com/s/1ntqVYWh)
-
 ## Linux教程
 
 * 在线浏览
@@ -360,16 +199,6 @@
   * [51CTO下载](http://down.51cto.com/data/1879562)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC0)
   * [百度云下载](http://pan.baidu.com/s/1ntxGugD)
-
-## Linux C API参考
-
-+ 在线浏览
-  + [Linux C API参考](http://net.pku.edu.cn/~yhf/linux_c/)
-+ PDF版（2014.10.16）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8044903)
-  + [51CTO下载](http://down.51cto.com/data/1883732)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCG)
-  + [百度云下载](http://pan.baidu.com/s/1mg88VYo)
 
 ## MongoDB教程
 
@@ -381,31 +210,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlB-)
   * [百度云下载](http://pan.baidu.com/s/1bn0c8z1)
 
-## MongoDB官方文档
-
-+ 在线浏览
-  + [MongoDB官方文档](http://docs.mongoing.com/manual-zh/)
-
-## MySQL官方文档 ##
-
-+ 在线浏览
-  + [MySQL官方文档5.1](http://doc.mysql.cn/mysql5/refman-5.1-zh.html-chapter/)
-+ EPUB版（v5.1）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583557)
-  + [51CTO下载](http://down.51cto.com/data/2037837)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCC)
-  + [百度云下载](http://pan.baidu.com/s/1sjn0gJN)
-
-## Nginx官方文档 ##
-
-+ 在线浏览
-  + [Nginx官方文档](http://www.nginx.cn/doc/)
-+ EPUB版（2015.04.11）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8583833)
-  + [51CTO下载](http://down.51cto.com/data/2037844)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCF)
-  + [百度云下载](http://pan.baidu.com/s/1BBl2Q)
-
 ## Node.js教程
 
 * 在线浏览
@@ -415,15 +219,6 @@
   * [51CTO下载](http://down.51cto.com/data/1889497)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
   * [百度云下载](http://pan.baidu.com/s/1mgn9bz6)
-
-## Node.js官方API参考 ##
-
-+ 在线浏览
-  + [Node.js官方API参考v0.10.18](http://nodeapi.ucdok.com/#/api/)
-+ EPUB版（v0.10.18）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8582649)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCv)
-  + [百度云下载](http://pan.baidu.com/s/1eQCOZq6)
 
 ## PHP教程
 
@@ -445,13 +240,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCw)
   * [百度云下载](http://pan.baidu.com/s/1bnCTQAr)
 
-## php官方文档 ##
-
-+ 在线浏览
-  + [php官方文档](http://php.net/manual/zh/)
-+ CHM版
-  + [官方下载](http://php.net/get/php_manual_zh.chm/from/a/mirror)
-
 ## Python教程
 
 * 在线浏览
@@ -463,29 +251,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBG)
   * [百度云下载](http://pan.baidu.com/s/1dKcXK)
 
-## Python官方文档 ##
-
-+ 在线浏览 
-  + [python2.7官方教程](http://python.usyiyi.cn/python_278/tutorial/index.html)
-  + [python2.7语言参考](http://python.usyiyi.cn/python_278/reference/index.html)
-  + [python2.7标准库参考](http://python.usyiyi.cn/python_278/library/index.html)
-  + [python3.4官方教程](http://python.usyiyi.cn/python_341/tutorial/index.html)
-+ EPUB版（2.7，3.4）
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8584309)
-  + [51CTO下载](http://down.51cto.com/data/2037891)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCu)
-  + [百度云下载](http://pan.baidu.com/s/1o65hgxW)
-
-## QT3 官方文档 ##
-
-+ 在线浏览
-  + [QT3 官方文档](http://www.kuqin.com/qtdocument/)
-+ CHM版
-  + [CSDN下载](http://download.csdn.net/download/g123412312100/4062199)
-  + [51CTO下载](http://down.51cto.com/data/149760)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOCr)
-  + [百度云下载](http://pan.baidu.com/s/1kTtHSIb)
-
 ## Redis教程
 
 * 在线浏览
@@ -496,13 +261,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCu)
   * [百度云下载](http://pan.baidu.com/s/1dDpjlmT)
 
-## Redis官方文档 ##
-
-+ 在线浏览
-  + [Redis官方文档](http://redisdoc.com)
-+ PDF版
-  + [GITHUB下载](https://github.com/huangz1990/redis/tree/master/download)
-
 ## Ruby教程
 
 * 在线浏览
@@ -512,27 +270,6 @@
   * [51CTO下载](http://down.51cto.com/data/1878950)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCn)
   * [百度云下载](http://pan.baidu.com/s/1hqGh2ks)
-
-## Ruby官方文档 ##
-
-+ 在线浏览
-  + [Ruby官方文档](http://shouce.jb51.net/ruby/)
-+ CHM版
-  + [CR173下载](http://www.cr173.com/soft/65602.html)
-
-## Spring官方文档 ##
-
-+ 在线浏览
-  + [Spring官方文档](http://spring.cndocs.tk/)
-+ 代码仓库
-  + [Git@OSC](http://git.oschina.net/free/spring-framework-reference)
-  
-## Spring官方API参考 ##
-
-+ CHM版
-  + [CSDN下载](http://download.csdn.net/detail/wizardforcel/8588163)
-  + [微盘下载](http://vdisk.weibo.com/s/qaz38y4NnoOC4)
-  + [百度云下载](http://pan.baidu.com/s/1ntrBYvZ)
 
 ## SQL教程
 
@@ -546,20 +283,6 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCr)
   * [百度云下载](http://pan.baidu.com/s/1tZa0m)
 
-## Swift编程语言中文完整版 ##
-
-+ 在线浏览
-  + [Swift编程语言中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/TheSwiftProgrammingLanguage%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
-+ PDF版
-  + [微盘下载](http://vdisk.weibo.com/s/EhsPPzRRQ5CZ/1402621206)
-  
-## using swift with cocoa and object-c 中文完整版 ##
-  
-+ 在线浏览
-  + [using swift with cocoa and object-c 中文完整版](https://github.com/CocoaChina-editors/Welcome-to-Swift/blob/master/UsingSwiftwithCocoaandObjective-C%E4%B8%AD%E6%96%87%E6%89%8B%E5%86%8C.md)
-+ PDF版
-  + [微盘下载](http://vdisk.weibo.com/s/EhsPPzRRQHNd)
-
 ## VBS &amp; ASP教程
 
 * 在线浏览
@@ -571,11 +294,6 @@
   * [51CTO下载](http://down.51cto.com/data/1878916)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBJ)
   * [百度云下载](http://pan.baidu.com/s/12M3mA)
-
-## Vbscript官方文档 ##
-
-+ CHM版
-  + [脚本之家下载](http://www.jb51.net/books/239.html)
 
 ## XML教程
 
