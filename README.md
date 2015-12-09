@@ -141,11 +141,9 @@
   * [jQuery教程](http://www.w3cschool.cc/jquery/jquery-tutorial.html)
   * [Ajax教程](http://www.w3cschool.cc/ajax/ajax-tutorial.html)
   * [Google地图教程](http://www.w3cschool.cc/googleapi/googleapi-tutorial.html)
-* PDF版（2014.10.27）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8088421)
-  * [51CTO下载](http://down.51cto.com/data/1890200)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCq)
-  * [百度云下载](http://pan.baidu.com/s/1dDF7D53)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-js-jq)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-js-jq)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-js-jq)
 
 ## JavaScript参考手册
 
