@@ -94,11 +94,9 @@
   * [HTML教程](http://www.w3cschool.cc/html/html-tutorial.html)
   * [CSS教程](http://www.w3cschool.cc/css/css-tutorial.html)
   * [Firebug教程](http://www.w3cschool.cc/firebug/firebug-tutorial.html)
-* PDF版（2014.10.2）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997519)
-  * [51CTO下载](http://down.51cto.com/data/1879168)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVx)
-  * [百度云下载](http://pan.baidu.com/s/1qWLqPdy)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-html-css)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-html-css)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-html-css)
 
 ## HTML参考手册
 
