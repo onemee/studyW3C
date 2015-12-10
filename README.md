@@ -42,11 +42,9 @@
 * 在线浏览
   * [C#教程](http://www.w3cschool.cc/csharp/csharp-tutorial.html)
   * [ASP.net教程](http://www.w3cschool.cc/aspnet/aspnet-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
-  * [51CTO下载](http://down.51cto.com/data/1879009)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVv)
-  * [百度云下载](http://pan.baidu.com/s/1ntxay0p)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-csharp)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-csharp)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-csharp)
 
 ## C++教程
 
