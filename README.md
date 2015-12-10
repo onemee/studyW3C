@@ -218,11 +218,9 @@
 
 * 在线浏览
   * [PHP教程](http://www.w3cschool.cc/php/php-tutorial.html)
-* PDF版（2014.10.26）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084927)
-  * [51CTO下载](http://down.51cto.com/data/1889382)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC1)
-  * [百度云下载](http://pan.baidu.com/s/1dDD5HDZ)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-php)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-php)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-php)
 
 ## PHP参考手册
 
