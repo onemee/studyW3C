@@ -182,11 +182,9 @@
 
 * 在线浏览
   * [Linux教程](http://www.w3cschool.cc/linux/linux-tutorial.html)
-* PDF版（2014.10.2）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7998555)
-  * [51CTO下载](http://down.51cto.com/data/1879562)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC0)
-  * [百度云下载](http://pan.baidu.com/s/1ntxGugD)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-linux)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-linux)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-linux)
 
 ## MongoDB教程
 
