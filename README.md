@@ -327,11 +327,9 @@
 
 * 在线浏览
   * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995407)
-  * [51CTO下载](http://down.51cto.com/data/1878988)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCs)
-  * [百度云下载](http://pan.baidu.com/s/1kTqYTTH)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-regex)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-regex)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-regex)
 
 * * *
 
