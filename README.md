@@ -235,11 +235,9 @@
 
 * 在线浏览
   * [Redis教程](http://www.w3cschool.cc/redis/redis-tutorial.html)
-* PDF版（2014.12.28）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8309295)
-  * [51CTO下载](http://down.51cto.com/data/1967857)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCu)
-  * [百度云下载](http://pan.baidu.com/s/1dDpjlmT)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-redis)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-redis)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-redis)
 
 ## Ruby教程
 
