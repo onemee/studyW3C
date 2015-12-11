@@ -73,11 +73,9 @@
 
 * 在线浏览
   * [Eclipse教程](http://www.w3cschool.cc/eclipse/eclipse-tutorial.html)
-* PDF版（2014.12.31）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8316883)
-  * [51CTO下载](http://down.51cto.com/data/1968648)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVQ)
-  * [百度云下载](http://pan.baidu.com/s/1c0o5qd6)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-eclipse)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-eclipse)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-eclipse)
 
 ## git教程
 
