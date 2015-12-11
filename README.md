@@ -108,11 +108,9 @@
 
 * 在线浏览
   * [ios教程](http://www.w3cschool.cc/ios/ios-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994919)
-  * [51CTO下载](http://down.51cto.com/data/1878954)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCt)
-  * [百度云下载](http://pan.baidu.com/s/1eQkx1zc)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ios)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ios)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ios)
 
 ## Java &amp; Java Web教程
 
