@@ -301,11 +301,9 @@
 
 * 在线浏览
   * [设计模式教程](http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995871)
-  * [51CTO下载](http://down.51cto.com/data/1879010)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlC2)
-  * [百度云下载](http://pan.baidu.com/s/1gdeVH2j)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-design-patterns)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-design-patterns)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-design-patterns)
 
 ## 网站建设教程
 
