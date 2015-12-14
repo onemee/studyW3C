@@ -50,11 +50,9 @@
 
 * 在线浏览
   * [C++教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
-* EPUB版（2015.1.29）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8407697)
-  * [51CTO下载](http://down.51cto.com/data/1979786)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlVX)
-  * [百度云下载](http://pan.baidu.com/s/1qWNYDVe)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-cpp)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-cpp)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-cpp)
   
 ## C语言教程
 
