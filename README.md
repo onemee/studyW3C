@@ -114,11 +114,9 @@
   * [Java教程](http://www.w3cschool.cc/java/java-tutorial.html)
   * [JSP教程](http://www.w3cschool.cc/jsp/jsp-tutorial.html)
   * [Servlet教程](http://www.w3cschool.cc/servlet/servlet-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7995503)
-  * [51CTO下载](http://down.51cto.com/data/1878997)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBV)
-  * [百度云下载](http://pan.baidu.com/s/1eQGR5vG)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-java)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-java)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-java)
 
 ## JavaScript &amp; jQuery教程
 
