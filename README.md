@@ -192,11 +192,9 @@
 
 * 在线浏览
   * [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
-* PDF版（2014.10.26）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8083187)
-  * [51CTO下载](http://down.51cto.com/data/1889497)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBH)
-  * [百度云下载](http://pan.baidu.com/s/1mgn9bz6)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-nodejs)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-nodejs)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-nodejs)
 
 ## PHP教程
 
