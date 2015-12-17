@@ -208,11 +208,9 @@
 
 * 在线浏览
   * [PHP参考手册](http://www.w3cschool.cc/php/php-ref-array.html)
-* PDF版（2014.10.29）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8096357)
-  * [51CTO下载](http://down.51cto.com/data/1891817)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCw)
-  * [百度云下载](http://pan.baidu.com/s/1bnCTQAr)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-php-ref)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-php-ref)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-php-ref)
 
 ## Python教程
 
