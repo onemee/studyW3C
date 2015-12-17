@@ -277,11 +277,9 @@
   * [SOAP教程](http://www.w3cschool.cc/soap/soap-tutorial.html)
   * [RSS教程](http://www.w3cschool.cc/rss/rss-tutorial.html)
   * [RDF教程](http://www.w3cschool.cc/rdf/rdf-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7996259)
-  * [51CTO下载](http://down.51cto.com/data/1879035)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCk)
-  * [百度云下载](http://pan.baidu.com/s/1jGpEYyi)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-xml)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-xml)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-xml)
 
 ## 设计模式教程
 
