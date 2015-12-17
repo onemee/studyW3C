@@ -145,11 +145,9 @@
 
 * 在线浏览
   * [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
-* PDF版（2014.10.22）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8069785)
-  * [51CTO下载](http://down.51cto.com/data/1887084)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCx)
-  * [百度云下载](http://pan.baidu.com/s/1jGKhhps)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jqmobile)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jqmobile)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jqmobile)
 
 ## jQuery UI教程
 
