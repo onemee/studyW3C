@@ -31,11 +31,9 @@
 
 * 在线浏览
   * [CSS参考手册](http://www.w3cschool.cc/cssref/css-reference.html)
-* PDF版（2014.10.26）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084309)
-  * [51CTO下载](http://down.51cto.com/data/1889669)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV9)
-  * [百度云下载](http://pan.baidu.com/s/1gdepLf1)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-css-ref)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-css-ref)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-css-ref)
 
 ## C# &amp; ASP.net教程
 
