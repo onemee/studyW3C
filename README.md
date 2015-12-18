@@ -94,11 +94,9 @@
 
 * 在线浏览
   * [HTML参考手册](http://www.w3cschool.cc/tags/html-reference.html)
-* PDF版（2014.10.27）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8084901)
-  * [51CTO下载](http://down.51cto.com/data/1889715)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBR)
-  * [百度云下载](http://pan.baidu.com/s/1eQ2Esro)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-html-ref)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-html-ref)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-html-ref)
 
 ## ios教程
 
