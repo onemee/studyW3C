@@ -21,11 +21,9 @@
 
 * 在线浏览
   * [Bootstrap教程](http://www.w3cschool.cc/bootstrap/bootstrap-tutorial.html)
-* PDF版（2014.10.1）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7994907)
-  * [51CTO下载](http://down.51cto.com/data/1878952)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlV4)
-  * [百度云下载](http://pan.baidu.com/s/1eQvmJS2)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-bootstrap)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-bootstrap)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-bootstrap)
 
 ## CSS参考手册
 
