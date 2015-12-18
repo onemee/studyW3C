@@ -156,11 +156,9 @@
 
 * 在线浏览
   * [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
-* PDF版（2014.10.2）
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/7997915)
-  * [51CTO下载](http://down.51cto.com/data/1879306)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlCb)
-  * [百度云下载](http://pan.baidu.com/s/1qWp2JiW)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jquery-ref)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jquery-ref)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jquery-ref)
 
 ## Linux教程
 
