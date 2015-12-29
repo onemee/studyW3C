@@ -184,6 +184,14 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-lua)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-lua)
 
+## Memcached 教程
+
++ 在线浏览
+  + [Memcached 教程](http://www.w3cschool.cc/Memcached/Memcached-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mc)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mc)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mc)
+
 ## MongoDB教程
 
 * 在线浏览
