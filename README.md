@@ -249,6 +249,14 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ruby)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ruby)
 
+## Scala 教程
+
++ 在线浏览 
+  + [Scala 教程](http://www.w3cschool.cc/scala/scala-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-scala)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-scala)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-scala)
+
 ## SQL教程
 
 * 在线浏览
