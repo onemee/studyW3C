@@ -168,6 +168,14 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-linux)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-linux)
 
+## Lua 教程
+
++ 在线浏览
+  + [Lua 教程](http://www.w3cschool.cc/lua/lua-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-lua)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-lua)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-lua)
+
 ## MongoDB教程
 
 * 在线浏览
