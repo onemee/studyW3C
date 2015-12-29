@@ -84,6 +84,14 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-go)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go)
 
+## Highcharts 教程
+
++ 在线浏览
+  + [Highcharts 教程](http://www.w3cschool.cc/highcharts/highcharts-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-highcharts)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-highcharts)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-highcharts)
+
 ## HTML &amp; css教程
 
 * 在线浏览
