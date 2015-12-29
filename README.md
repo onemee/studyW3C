@@ -76,6 +76,14 @@
 + 在线浏览
   + [git教程](http://www.w3cschool.cc/git/git-tutorial.html)
 
+## Go语言 教程
+
++ 在线浏览
+  + [Go语言 教程](http://www.w3cschool.cc/go/go-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-go)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-go)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go)
+
 ## HTML &amp; css教程
 
 * 在线浏览
