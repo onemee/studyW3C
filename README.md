@@ -275,6 +275,14 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-sql)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-sql)
 
+## Swift 教程 #
+
++ 在线浏览
+  + [Swift 教程](http://www.w3cschool.cc/swift/swift-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-swift)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-swift)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-swift)
+
 ## VBS &amp; ASP教程
 
 * 在线浏览
