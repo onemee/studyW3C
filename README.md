@@ -110,6 +110,14 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-html-ref)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-html-ref)
 
+## ionic 教程
+
++ 在线浏览
+  + [Ionic 教程](http://www.w3cschool.cc/ionic/ionic-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ionic)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ionic)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ionic)
+
 ## ios教程
 
 * 在线浏览
