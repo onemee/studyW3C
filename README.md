@@ -74,6 +74,14 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-eclipse)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-eclipse)
 
+## Foundation 教程
+
++ 在线浏览
+  + [Foundation 教程](http://www.w3cschool.cc/foundation/foundation-tutorial.html)
++ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-foundation)
++ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-foundation)
++ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-foundation)
+
 ## git教程
 
 + 在线浏览
