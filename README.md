@@ -374,11 +374,7 @@
 
 ## w3school教程打包
 
-* PDF格式
-  * [CSDN下载](http://download.csdn.net/detail/wizardforcel/8389553)
-  * [51CTO下载](http://down.51cto.com/data/1980535)
-  * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBL)
-  * [百度云下载](http://pan.baidu.com/s/1sjma0R7)
 * EPUB格式
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF18gL)
-  * [千易下载](http://1000eb.com/1i706)
+  * 最后更新：2016.1.1
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFlCl-)
+  * [千易下载](http://1000eb.com/1i9kj)
