@@ -4,6 +4,31 @@
 
 * * *
 
+## 前端教程合集
+
+* 在线浏览
+  * [AngularJS教程](http://www.w3cschool.cc/angularjs/angularjs-tutorial.html)
+  * [Bootstrap教程](http://www.w3cschool.cc/bootstrap/bootstrap-tutorial.html)
+  * [CSS参考手册](http://www.w3cschool.cc/cssref/css-reference.html)
+  * [Foundation 教程](http://www.w3cschool.cc/foundation/foundation-tutorial.html)
+  * [Highcharts 教程](http://www.w3cschool.cc/highcharts/highcharts-tutorial.html)
+  * [HTML教程](http://www.w3cschool.cc/html/html-tutorial.html)
+  * [CSS教程](http://www.w3cschool.cc/css/css-tutorial.html)
+  * [Firebug教程](http://www.w3cschool.cc/firebug/firebug-tutorial.html)
+  * [HTML参考手册](http://www.w3cschool.cc/tags/html-reference.html)
+  * [JavaScript教程](http://www.w3cschool.cc/js/js-tutorial.html)
+  * [HTML DOM教程](http://www.w3cschool.cc/htmldom/htmldom-tutorial.html)
+  * [JavaScript高级教程](http://www.w3school.com.cn/js/index_pro.asp)
+  * [jQuery教程](http://www.w3cschool.cc/jquery/jquery-tutorial.html)
+  * [Ajax教程](http://www.w3cschool.cc/ajax/ajax-tutorial.html)
+  * [Google地图教程](http://www.w3cschool.cc/googleapi/googleapi-tutorial.html)
+  * [jQuery UI教程](http://www.w3cschool.cc/jqueryui/jqueryui-tutorial.html)
+  * [jQuery Easy UI教程](http://www.w3cschool.cc/jeasyui/jqueryeasyui-tutorial.html)
+  * [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-front-end)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-front-end)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-front-end)
+
 ## Android 基础入门教程
 
 + 在线浏览
@@ -11,30 +36,6 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-android)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-android)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-android)
-
-## AngularJS教程
-
-* 在线浏览
-  * [AngularJS教程](http://www.w3cschool.cc/angularjs/angularjs-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-angularjs)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-angularjs)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-angularjs)
-
-## Bootstrap教程
-
-* 在线浏览
-  * [Bootstrap教程](http://www.w3cschool.cc/bootstrap/bootstrap-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-bootstrap)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-bootstrap)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-bootstrap)
-
-## CSS参考手册
-
-* 在线浏览
-  * [CSS参考手册](http://www.w3cschool.cc/cssref/css-reference.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-css-ref)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-css-ref)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-css-ref)
 
 ## C# &amp; ASP.net教程
 
@@ -74,14 +75,6 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-eclipse)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-eclipse)
 
-## Foundation 教程
-
-+ 在线浏览
-  + [Foundation 教程](http://www.w3cschool.cc/foundation/foundation-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-foundation)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-foundation)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-foundation)
-
 ## git教程
 
 + 在线浏览
@@ -95,31 +88,6 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-go)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go)
 
-## Highcharts 教程
-
-+ 在线浏览
-  + [Highcharts 教程](http://www.w3cschool.cc/highcharts/highcharts-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-highcharts)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-highcharts)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-highcharts)
-
-## HTML &amp; css教程
-
-* 在线浏览
-  * [HTML教程](http://www.w3cschool.cc/html/html-tutorial.html)
-  * [CSS教程](http://www.w3cschool.cc/css/css-tutorial.html)
-  * [Firebug教程](http://www.w3cschool.cc/firebug/firebug-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-html-css)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-html-css)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-html-css)
-
-## HTML参考手册
-
-* 在线浏览
-  * [HTML参考手册](http://www.w3cschool.cc/tags/html-reference.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-html-ref)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-html-ref)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-html-ref)
 
 ## ionic 教程
 
@@ -147,19 +115,6 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-java)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-java)
 
-## JavaScript &amp; jQuery教程
-
-* 在线浏览
-  * [JavaScript教程](http://www.w3cschool.cc/js/js-tutorial.html)
-  * [HTML DOM教程](http://www.w3cschool.cc/htmldom/htmldom-tutorial.html)
-  * [JavaScript高级教程](http://www.w3school.com.cn/js/index_pro.asp)
-  * [jQuery教程](http://www.w3cschool.cc/jquery/jquery-tutorial.html)
-  * [Ajax教程](http://www.w3cschool.cc/ajax/ajax-tutorial.html)
-  * [Google地图教程](http://www.w3cschool.cc/googleapi/googleapi-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-js-jq)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-js-jq)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-js-jq)
-
 ## JavaScript参考手册
 
 * 在线浏览
@@ -177,23 +132,6 @@
 * [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jqmobile)
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jqmobile)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jqmobile)
-
-## jQuery UI教程
-
-* 在线浏览
-  * [jQuery UI教程](http://www.w3cschool.cc/jqueryui/jqueryui-tutorial.html)
-  * [jQuery Easy UI教程](http://www.w3cschool.cc/jeasyui/jqueryeasyui-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jqui)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jqui)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jqui)
-
-## JQuery参考手册
-
-* 在线浏览
-  * [jQuery参考手册](http://www.w3cschool.cc/jquery/jquery-ref-selectors.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jquery-ref)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jquery-ref)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jquery-ref)
 
 ## Linux教程
 
