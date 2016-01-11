@@ -34,7 +34,7 @@
 * 在线浏览
   * [C#教程](http://www.w3cschool.cc/csharp/csharp-tutorial.html)
   * [ASP.net教程](http://www.w3cschool.cc/aspnet/aspnet-tutorial.html)
-  * [C**教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
+  * [C++教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
   * [C语言教程](http://www.w3cschool.cc/cprogramming/c-tutorial.html)
   * [django教程](http://www.w3cschool.cc/django/django-tutorial.html)
   * [Go语言 教程](http://www.w3cschool.cc/go/go-tutorial.html)
