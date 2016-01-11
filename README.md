@@ -171,6 +171,6 @@
 ## w3school教程打包
 
 * EPUB格式
-  * 最后更新：2016.1.1
-  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRFlCl-)
-  * [千易下载](http://1000eb.com/1i9kj)
+  * 最后更新：2016.1.11
+  * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF0jeJ)
+  * [千易下载](http://1000eb.com/1iikc)
