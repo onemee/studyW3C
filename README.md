@@ -29,6 +29,17 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-front-end)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-front-end)
 
+## 移动端教程合集
+
+* 在线浏览
+  * [Ionic 教程](http://www.w3cschool.cc/ionic/ionic-tutorial.html)
+  * [ios教程](http://www.w3cschool.cc/ios/ios-tutorial.html)
+  * [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
+  * [Swift 教程](http://www.w3cschool.cc/swift/swift-tutorial.html)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mobile)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mobile)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mobile)
+
 ## Android 基础入门教程
 
 + 在线浏览
@@ -89,22 +100,6 @@
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go)
 
 
-## ionic 教程
-
-+ 在线浏览
-  + [Ionic 教程](http://www.w3cschool.cc/ionic/ionic-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ionic)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ionic)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ionic)
-
-## ios教程
-
-* 在线浏览
-  * [ios教程](http://www.w3cschool.cc/ios/ios-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ios)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ios)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ios)
-
 ## Java &amp; Java Web教程
 
 * 在线浏览
@@ -124,14 +119,6 @@
   * [51CTO下载](http://down.51cto.com/data/1879731)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
   * [百度云下载](http://pan.baidu.com/s/1i3kXrvB)
-
-## jQueryMobile教程
-
-* 在线浏览
-  * [jQueryMobile教程](http://www.w3cschool.cc/jquerymobile/jquerymobile-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-jqmobile)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-jqmobile)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-jqmobile)
 
 ## Linux教程
 
@@ -232,13 +219,6 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-sql)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-sql)
 
-## Swift 教程 #
-
-+ 在线浏览
-  + [Swift 教程](http://www.w3cschool.cc/swift/swift-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-swift)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-swift)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-swift)
 
 ## VBS &amp; ASP教程
 
