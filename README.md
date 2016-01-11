@@ -40,6 +40,20 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mobile)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mobile)
 
+## 数据库教程合集
+
+* 在线浏览
+  * [Memcached 教程](http://www.w3cschool.cc/Memcached/Memcached-tutorial.html)
+  * [MongoDB教程](http://www.w3cschool.cc/mongodb/mongodb-tutorial.html)
+  * [Redis教程](http://www.w3cschool.cc/redis/redis-tutorial.html)
+  * [SQL教程](http://www.w3cschool.cc/sql/sql-tutorial.html)
+  * [MySQL教程](http://www.w3cschool.cc/mysql/mysql-tutorial.html)
+  * [SQLite教程](http://www.w3cschool.cc/sqlite/sqlite-tutorial.html)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-db)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-db)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-db)
+
+
 ## Android 基础入门教程
 
 + 在线浏览
@@ -136,22 +150,6 @@
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-lua)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-lua)
 
-## Memcached 教程
-
-+ 在线浏览
-  + [Memcached 教程](http://www.w3cschool.cc/Memcached/Memcached-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mc)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mc)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mc)
-
-## MongoDB教程
-
-* 在线浏览
-  * [MongoDB教程](http://www.w3cschool.cc/mongodb/mongodb-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-mongodb)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-mongodb)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-mongodb)
-
 ## Node.js教程
 
 * 在线浏览
@@ -185,13 +183,6 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-python)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-python)
 
-## Redis教程
-
-* 在线浏览
-  * [Redis教程](http://www.w3cschool.cc/redis/redis-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-redis)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-redis)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-redis)
 
 ## Ruby教程
 
@@ -208,17 +199,6 @@
 + [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-scala)
 + [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-scala)
 + [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-scala)
-
-## SQL教程
-
-* 在线浏览
-  * [SQL教程](http://www.w3cschool.cc/sql/sql-tutorial.html)
-  * [MySQL教程](http://www.w3cschool.cc/mysql/mysql-tutorial.html)
-  * [SQLite教程](http://www.w3cschool.cc/sqlite/sqlite-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-sql)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-sql)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-sql)
-
 
 ## VBS &amp; ASP教程
 
