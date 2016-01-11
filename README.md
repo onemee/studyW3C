@@ -29,6 +29,33 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-front-end)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-front-end)
 
+## 后端教程合集
+
+* 在线浏览
+  * [C#教程](http://www.w3cschool.cc/csharp/csharp-tutorial.html)
+  * [ASP.net教程](http://www.w3cschool.cc/aspnet/aspnet-tutorial.html)
+  * [C**教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
+  * [C语言教程](http://www.w3cschool.cc/cprogramming/c-tutorial.html)
+  * [django教程](http://www.w3cschool.cc/django/django-tutorial.html)
+  * [Go语言 教程](http://www.w3cschool.cc/go/go-tutorial.html)
+  * [Java教程](http://www.w3cschool.cc/java/java-tutorial.html)
+  * [JSP教程](http://www.w3cschool.cc/jsp/jsp-tutorial.html)
+  * [Servlet教程](http://www.w3cschool.cc/servlet/servlet-tutorial.html)
+  * [Linux教程](http://www.w3cschool.cc/linux/linux-tutorial.html)
+  * [Lua 教程](http://www.w3cschool.cc/lua/lua-tutorial.html)
+  * [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
+  * [PHP教程](http://www.w3cschool.cc/php/php-tutorial.html)
+  * [PHP参考手册](http://www.w3cschool.cc/php/php-ref-array.html)
+  * [Python教程](http://www.w3cschool.cc/python/python-tutorial.html)
+  * [Python3教程](http://www.w3cschool.cc/python3/python3-tutorial.html)
+  * [Ruby教程](http://www.w3cschool.cc/ruby/ruby-tutorial.html)
+  * [Scala 教程](http://www.w3cschool.cc/scala/scala-tutorial.html)
+  * [设计模式教程](http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html)
+  * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-back-end)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-back-end)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-back-end)
+
 ## 移动端教程合集
 
 * 在线浏览
@@ -56,41 +83,12 @@
 
 ## Android 基础入门教程
 
-+ 在线浏览
-  + [Android 基础入门教程](http://www.w3cschool.cc/w3cnote/android-tutorial-intro.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-android)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-android)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-android)
-
-## C# &amp; ASP.net教程
-
 * 在线浏览
-  * [C#教程](http://www.w3cschool.cc/csharp/csharp-tutorial.html)
-  * [ASP.net教程](http://www.w3cschool.cc/aspnet/aspnet-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-csharp)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-csharp)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-csharp)
+  * [Android 基础入门教程](http://www.w3cschool.cc/w3cnote/android-tutorial-intro.html)
+* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-android)
+* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-android)
+* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-android)
 
-## C++教程
-
-* 在线浏览
-  * [C++教程](http://www.w3cschool.cc/cplusplus/cpp-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-cpp)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-cpp)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-cpp)
-  
-## C语言教程
-
-* 在线浏览
-  * [C语言教程](http://www.w3cschool.cc/cprogramming/c-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-c)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-c)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-c)
-
-## django教程
-
-+ 在线浏览
-  + [django教程](http://www.w3cschool.cc/django/django-tutorial.html)
 
 ## Eclipse 教程
 
@@ -102,27 +100,8 @@
 
 ## git教程
 
-+ 在线浏览
-  + [git教程](http://www.w3cschool.cc/git/git-tutorial.html)
-
-## Go语言 教程
-
-+ 在线浏览
-  + [Go语言 教程](http://www.w3cschool.cc/go/go-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-go)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-go)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-go)
-
-
-## Java &amp; Java Web教程
-
 * 在线浏览
-  * [Java教程](http://www.w3cschool.cc/java/java-tutorial.html)
-  * [JSP教程](http://www.w3cschool.cc/jsp/jsp-tutorial.html)
-  * [Servlet教程](http://www.w3cschool.cc/servlet/servlet-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-java)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-java)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-java)
+  * [git教程](http://www.w3cschool.cc/git/git-tutorial.html)
 
 ## JavaScript参考手册
 
@@ -133,72 +112,6 @@
   * [51CTO下载](http://down.51cto.com/data/1879731)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBU)
   * [百度云下载](http://pan.baidu.com/s/1i3kXrvB)
-
-## Linux教程
-
-* 在线浏览
-  * [Linux教程](http://www.w3cschool.cc/linux/linux-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-linux)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-linux)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-linux)
-
-## Lua 教程
-
-+ 在线浏览
-  + [Lua 教程](http://www.w3cschool.cc/lua/lua-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-lua)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-lua)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-lua)
-
-## Node.js教程
-
-* 在线浏览
-  * [Node.js教程](http://www.w3cschool.cc/nodejs/nodejs-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-nodejs)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-nodejs)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-nodejs)
-
-## PHP教程
-
-* 在线浏览
-  * [PHP教程](http://www.w3cschool.cc/php/php-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-php)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-php)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-php)
-
-## PHP参考手册
-
-* 在线浏览
-  * [PHP参考手册](http://www.w3cschool.cc/php/php-ref-array.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-php-ref)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-php-ref)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-php-ref)
-
-## Python教程
-
-* 在线浏览
-  * [Python教程](http://www.w3cschool.cc/python/python-tutorial.html)
-  * [Python3教程](http://www.w3cschool.cc/python3/python3-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-python)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-python)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-python)
-
-
-## Ruby教程
-
-* 在线浏览
-  * [Ruby教程](http://www.w3cschool.cc/ruby/ruby-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-ruby)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-ruby)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-ruby)
-
-## Scala 教程
-
-+ 在线浏览 
-  + [Scala 教程](http://www.w3cschool.cc/scala/scala-tutorial.html)
-+ [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-scala)
-+ [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-scala)
-+ [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-scala)
 
 ## VBS &amp; ASP教程
 
@@ -234,13 +147,6 @@
 * [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-xml)
 * [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-xml)
 
-## 设计模式教程
-
-* 在线浏览
-  * [设计模式教程](http://www.w3cschool.cc/design-pattern/design-pattern-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-design-patterns)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-design-patterns)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-design-patterns)
 
 ## 网站建设教程
 
@@ -259,14 +165,6 @@
   * [51CTO下载](http://down.51cto.com/data/1901422)
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBK)
   * [百度云下载](http://pan.baidu.com/s/1c0vqQEO)
-
-## 正则表达式教程
-
-* 在线浏览
-  * [正则表达式教程](http://www.w3cschool.cc/regexp/regexp-tutorial.html)
-* [PDF格式](https://www.gitbook.com/download/pdf/book/wizardforcel/w3school-regex)
-* [EPUB格式](https://www.gitbook.com/download/epub/book/wizardforcel/w3school-regex)
-* [MOBI格式](https://www.gitbook.com/download/mobi/book/wizardforcel/w3school-regex)
 
 * * *
 
