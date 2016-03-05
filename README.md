@@ -1,9 +1,5 @@
 # W3School 教程整理 #
 
-与W3school无关的教程已从此列表中移除，在[这里](https://github.com/wizardforcel/dev-tutorial)。
-
-* * *
-
 ## 前端教程合集
 
 * 在线浏览
@@ -166,11 +162,16 @@
   * [微盘下载](http://vdisk.weibo.com/s/qybb07EH0XlBK)
   * [百度云下载](http://pan.baidu.com/s/1c0vqQEO)
 
-* * *
-
 ## w3school教程打包
 
 * EPUB格式
   * 最后更新：2016.1.11
   * [微盘下载](http://vdisk.weibo.com/s/aADaW4YRF0jeJ)
   * [千易下载](http://1000eb.com/1iikc)
+
+## 另见
+
++ 开发者文档整理计划
+  + [站点](http://it-ebooks.flygon.net/)
+  + [站点源码](https://coding.net/u/wizardforcel/p/it-ebooks/git)
+  + [归档](https://github.com/wizardforcel/it-ebooks-archive)
