@@ -173,5 +173,5 @@
 
 + 开发者文档整理计划
   + [站点](http://it-ebooks.flygon.net/)
-  + [站点源码](https://coding.net/u/wizardforcel/p/it-ebooks/git)
-  + [归档](https://github.com/wizardforcel/it-ebooks-archive)
+  + [站点源码](https://github.com/it-ebooks/blog)
+  + [归档](https://github.com/it-ebooks/it-ebooks-archive)
